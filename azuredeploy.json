@@ -57,7 +57,7 @@
             "displayName": "GitHub"
           },
           "properties": {
-            "RepoUrl": "https://github.com/stevenfollis/NodeJS-KoaSiteTemplate.git",
+            "RepoUrl": "https://github.com/stevenfollis/NodeJS-KrakenSiteTemplate.git",
             "branch": "master",
             "IsManualIntegration": true
           }
